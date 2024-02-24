@@ -8,3 +8,4 @@ pillow==9.5.0  # image processing and display library
 nbformat==5.8.0  # Jupyter notebook format, required for Plotly in VS Code
 nbconvert==7.4.0  # Jupyter notebook conversion, required for converting notebooks to HTML, PDF, etc.
 ipykernel==6.23.1  # kernel for Jupyter notebooks
+imbalanced-learn==0.12.0
